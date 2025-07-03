@@ -107,7 +107,7 @@ The following SQL queries were developed to answer specific business questions:
 1. **Write a SQL query to retrieve all columns for sales made on '2022-11-05**:
 ```sql
 SELECT *
-FROM retail_sales
+FROM saless
 WHERE sale_date = '2022-11-05';
 ```
 
